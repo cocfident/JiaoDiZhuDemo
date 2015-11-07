@@ -91,7 +91,7 @@ static  NSString * const routeOtherDiZhuIdentifier = @"routeOtherDiZhuIdentifier
 }
 - (void)setupFooterView
 {
-    //footerView
+    //footerView set
     UIView *footerView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, self.view.width, 170)];
     footerView.backgroundColor = RGB(240, 240, 240);
     
